@@ -122,7 +122,7 @@
     <!-- Header Section with Profile Pic -->
     <div class="header">
         <div class="profile-container">
-            <img src="profile.jpg" alt="X. Alvin Antony">
+            <img src="Screenshot_2025-03-26-12-36-42-953_com.whatsapp.jpg" alt="X. Alvin Antony">
         </div>
         <div class="header-content">
             <h1>X. Alvin Antony</h1>
